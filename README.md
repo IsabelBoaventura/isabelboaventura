@@ -5,7 +5,7 @@
 -->
 
 
-Para aparecer os emotions clicar em 'Windows' + '.';
+<!-- Para aparecer os emotions clicar em 'Windows' + '.';  -->
 
 
 <div align="center">
