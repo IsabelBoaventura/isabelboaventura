@@ -44,12 +44,12 @@
  
 </div>
   
-  ## Informações
+  <!-- ## Informações
   
   Onde encontrar mais opções de estilização da página:        
       https://github.com/anuraghazra/github-readme-stats
   
   Icones
-      https://devicon.dev
+      https://devicon.dev --> 
   
   
