@@ -2,10 +2,11 @@
 <div align="center">
 
 <h1 style="text-align: center;">Olá, sou Isabel Boaventura! </h1>
+  <h3>Bem vindo ao meu Git!</h3>
   
   </div>
 
-Bem vindo ao meu Git!
+
 
 
 <!--
